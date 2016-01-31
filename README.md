@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/johnnymn/reloquent.svg?branch=master)](https://travis-ci.org/johnnymn/reloquent)
+
 ##Reloquent
 
 ###A simple Object - Data Mapper for Laravel and Redis
@@ -59,6 +61,8 @@ Getting into reloquent is very easy due to the fact that the api is based on elo
 - all
 
 - create
+
+The complete API Docs: [Reloquent Docs](http://johnnymn.github.io/reloquent/index.html)
 
 ####Data types
 
