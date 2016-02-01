@@ -5,7 +5,7 @@
 
 ###A simple Object - Data Mapper for Laravel and Redis
 
-Reloquent let you handle your Redis data as php objects allowing u to use it in a more friendly fashion. So you can think of it as a minimal Eloquent clone for redis (hence the name). Right now is basic in terms of functionality, and it doesn't allow querying models by its attributes (only the primary key), but I have plans to make that happen soon using Redis Sets (right now the library use redis Hashes as data structure for storing models). So in action:
+Reloquent let you handle your Redis data as php objects allowing you to use it in a more friendly fashion. So you can think of it as a minimal Eloquent clone for redis (hence the name). Right now is basic in terms of functionality, and it doesn't allow querying models by its attributes (only the primary key), but I have plans to make that happen soon using Redis Sets (right now the library use redis Hashes as data structure for storing models). So in action:
 
 ####Installation
 
